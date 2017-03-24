@@ -1,0 +1,27 @@
+*{
+    margin:0;
+	padding:0;
+    list-style: none;
+    text-decoration: none;
+}
+.tbdh .tbdh_content .tbdh_content_left{
+	border:1px solid red;
+	float: left;
+}
+.tbdh .tbdh_content .tbdh_content_left li{
+	float: left;
+	padding:0px 7px;
+}
+/*.register{
+	height: 35px;
+	line-height: 35px;
+}*/
+.tbdh .tbdh_content .tbdh_content_left li div{
+	height: 35px;
+	line-height: 35px;
+}
+.tbdh .tbdh_content .tbdh_content_left li a{
+	font-size: 12px;
+	color: #6c6c6c;
+
+}
